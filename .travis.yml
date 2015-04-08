@@ -8,3 +8,7 @@ after_success: bundle exec s3_website push
 branches:
   only:
   - master
+env:
+  global:
+  - secure: Kkc60uBHGoPqA3G0nR+aq2lGctRnkCk310GCqaGDt6ShPFqDWLcJwYmiLOPhPzLJvUtg8ZVEGYmXZvayPIfDMKo7B8uIA+cD5nkPbHsU2aqiLwMkbnEwvP/O5KoKz7yW3ojkf8fUaOEwB+GOQ4BfB574hn5+SxnyOnqH11kD5Xg=
+  - secure: BJuC4xhTQCp0wW+OigKK2ifVMHqUj9kpKwJBuRhyRaB6hWxY0pkqtyFM5N8cFxmmA09US/6/f9IoGHN3qhyk8ON8NLv72UJZVfXnk5s8qfh2lbw6HHzoKUGeLasMpYKilCCy9WYbI72Gx/GgF7KdT8AhK4PrjF+Vxp+OZYlHtcg=
