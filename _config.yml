@@ -1,0 +1,12 @@
+# Site settings
+title: Enlightenmint
+email: chris@enlightenmint.com
+description: > # this means to ignore newlines until "baseurl:"
+  Spending each day just trying to get a bit wiser than before.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.enlightenmint.com" # the base hostname & protocol for your site
+twitter_username: chrisauer
+github_username:  chrisauer
+
+# Build settings
+markdown: kramdown
