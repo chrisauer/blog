@@ -1,8 +1,9 @@
 ---
-title: Hidden Dangers of Sedo for Buyers and Sellers
-layout: post_redesign
+layout: post
+title: "Hidden Dangers of Sedo for Buyers and Sellers"
+date:   2016-03-29 11:42:50
+categories: domains
 ---
-
 I bought a domain to start a business a long time ago, unfortunately the business never came.  Being that the domain was a great single-world (correctly spelled) and short .io domain, I figured someone might see value in having it.  That is when I signed up for Sedo.  I suppose at some point in the process I gave them a "Buy It Now" price.  Right after I sold the domain to an individual, I logged in a year ago and thought I removed the listing, however apparently it was never removed.
 
 Fast forward to a week ago, I logged into a personal email I hardly use for anything anymore and see an email from Sedo demanding $150 in transactions fees because they attempted to sell the domain name, without my consent, to a buyer through the "Buy It Now" functionality.  The kicker was the threat to send the supposed debt I owe them to a collections agency only a few days after they sent me the bill.  
